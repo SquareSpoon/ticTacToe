@@ -1,0 +1,9 @@
+void introduction();
+bool filled();
+void position1();
+void update();
+void change();
+bool winner();
+void show();
+void turn();
+void end();
